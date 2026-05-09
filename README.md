@@ -19,4 +19,34 @@ You have a weight limit and a list of items (each with a weight and a “usefuln
    git clone https://github.com/yourusername/trip-packing-helper.git
    cd trip-packing-helper
    ```
-   
+
+## 📦 Example Inputs
+
+Backpack weight limit (kg): 5
+
+Item name: Laptop
+Weight: 2
+Usefulness: 9
+
+Item name: Headphones
+Weight: 1
+Usefulness: 4
+
+Item name: Water bottle
+Weight: 3
+Usefulness: 8
+
+Item name: Book
+Weight: 4
+Usefulness: 6
+
+Item name: done
+
+--- Optimal Packing ---
+Total usefulness: 17
+Total weight: 5.00 kg
+Items to take:
+  - Laptop
+  - Water bottle
+
+
