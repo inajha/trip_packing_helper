@@ -1,0 +1,19 @@
+Backpack weight limit (kg): 5
+
+Item name: Laptop
+Weight: 2
+Usefulness: 9
+
+Item name: Headphones
+Weight: 1
+Usefulness: 4
+
+Item name: Water bottle
+Weight: 3
+Usefulness: 8
+
+Item name: Book
+Weight: 4
+Usefulness: 6
+
+Item name: done
